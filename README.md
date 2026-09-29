@@ -4,6 +4,7 @@ Publiczny pakiet danych aplikacji „Weekend w regionie” (AppStorm), serwowany
 
 - `v1/version.json` – wersja pakietu, sumy SHA-256 plików i minimalna wersja aplikacji
 - `v1/places.json`, `v1/products.json` – miejsca i produkty regionalne
+- `v1/img/320/<sha256>.jpg`, `v1/img/800/<sha256>.jpg` – miniatury zdjęć z Wikimedia Commons (nazwa = SHA-256 pliku 800)
 - `privacy-policy.html` – polityka prywatności aplikacji
 
 ## Źródła i licencje
@@ -11,6 +12,8 @@ Publiczny pakiet danych aplikacji „Weekend w regionie” (AppStorm), serwowany
 Pakiet jest zestawieniem otwartych danych publicznych: dane.gov.pl (m.in. rejestry muzeów i listy produktów tradycyjnych), Geoserwis GDOŚ (formy ochrony przyrody) i Państwowy Instytut Geologiczny (jaskinie). Każdy rekord wskazuje swoje źródła, a pełną listę zbiorów z licencjami podaje aplikacja w zakładce „Więcej”.
 
 Współrzędne części miejsc pochodzą z OpenStreetMap: © OpenStreetMap contributors. Te dane są dostępne na licencji [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/).
+
+Zdjęcia pochodzą z Wikimedia Commons, dopasowane przez Wikidata. Każde ma własnego autora i licencję (CC0, domena publiczna, CC BY lub CC BY-SA), zapisane w polu `photo` miejsca w `v1/places.json` razem z linkiem do strony pliku. Zdjęcia na licencji CC BY-SA udostępniamy na tej samej licencji.
 
 Pakiet jest generowany automatycznie; zmian nie należy wprowadzać ręcznie.
 
