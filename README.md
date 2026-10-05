@@ -9,7 +9,7 @@ Publiczny pakiet danych aplikacji „Weekend w regionie” (AppStorm), serwowany
 
 ## Źródła i licencje
 
-Pakiet jest zestawieniem otwartych danych publicznych: dane.gov.pl (m.in. rejestry muzeów i listy produktów tradycyjnych), Geoserwis GDOŚ (formy ochrony przyrody), Państwowy Instytut Geologiczny (jaskinie i Centralny Rejestr Geostanowisk Polski, CC BY 4.0), Narodowy Instytut Dziedzictwa (Pomniki historii, CC BY 4.0) , Lasy Państwowe – Bank Danych o Lasach (punkty widokowe, ośrodki edukacji, ścieżki dydaktyczne, obszary „Zanocuj w lesie” i parkingi leśne; CC BY 4.0) oraz Wikidata (zamki i ruiny zamków, wieże widokowe, zoo, ogrody botaniczne; CC0). Każdy rekord wskazuje swoje źródła, a pełną listę zbiorów z licencjami podaje aplikacja w zakładce „Więcej”.
+Pakiet jest zestawieniem otwartych danych publicznych: dane.gov.pl (m.in. rejestry muzeów i listy produktów tradycyjnych), Geoserwis GDOŚ (formy ochrony przyrody), Państwowy Instytut Geologiczny (jaskinie i Centralny Rejestr Geostanowisk Polski, CC BY 4.0), Narodowy Instytut Dziedzictwa (Pomniki historii, CC BY 4.0) , Lasy Państwowe – Bank Danych o Lasach (punkty widokowe, ośrodki edukacji, ścieżki dydaktyczne, obszary „Zanocuj w lesie” i parkingi leśne; CC BY 4.0), Europejska Agencja Środowiska (kąpieliska, dane Państwowej Inspekcji Sanitarnej; CC BY 4.0) oraz Wikidata (zamki i ruiny zamków, wieże widokowe, zoo, ogrody botaniczne; CC0). Każdy rekord wskazuje swoje źródła, a pełną listę zbiorów z licencjami podaje aplikacja w zakładce „Więcej”.
 
 Współrzędne części miejsc pochodzą z OpenStreetMap: © OpenStreetMap contributors. Te dane są dostępne na licencji [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/).
 
