@@ -5,7 +5,7 @@ Publiczny pakiet danych aplikacji „Weekend w regionie” (AppStorm), serwowany
 - `v1/version.json` – wersja pakietu, sumy SHA-256 plików i minimalna wersja aplikacji
 - `v1/places.json`, `v1/products.json` – miejsca i produkty regionalne
 - `v1/img/320/<sha256>.jpg`, `v1/img/800/<sha256>.jpg` – miniatury zdjęć z Wikimedia Commons (nazwa = SHA-256 pliku 800)
-- `privacy-policy.html` – polityka prywatności aplikacji
+- `privacy-policy.html` – polityka prywatności aplikacji (kopia; docelowy adres to https://appstorm.eu/weekend-w-regionie/polityka-prywatnosci.html)
 
 ## Źródła i licencje
 
@@ -17,4 +17,4 @@ Zdjęcia pochodzą z Wikimedia Commons, dopasowane przez Wikidata. Każde ma wł
 
 Pakiet jest generowany automatycznie; zmian nie należy wprowadzać ręcznie.
 
-Kontakt: appstorm.pl@gmail.com
+Kontakt: kontakt@appstorm.eu
